@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\x64\\unrealgame\\development\\casse_brique\\module.casse_brique.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\x64\\casse_brique\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\x64\\unrealgame\\development\\casse_brique\\definitions.casse_brique.h",
+            "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\unrealgame\\inc\\casse_brique\\uht\\bp_ball_cpp.gen.cpp",
+            "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\source\\casse_brique\\bp_ball_cpp.h",
+            "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\unrealgame\\inc\\casse_brique\\uht\\bp_ball_cpp.generated.h",
+            "c:\\users\\tryst\\documents\\github\\casse-brique-unreal-engine-\\casse_brique\\intermediate\\build\\win64\\unrealgame\\inc\\casse_brique\\uht\\casse_brique.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

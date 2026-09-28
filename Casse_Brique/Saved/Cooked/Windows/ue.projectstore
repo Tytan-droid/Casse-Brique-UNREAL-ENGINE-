@@ -1,0 +1,20 @@
+{
+	"zenserver":
+	{
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"192.168.0.171",
+			"hostname://Trystan"
+		],
+		"hostport": 8558,
+		"hostauth":
+		{
+			"type": "password",
+			"username": "ue",
+			"password": "773EDC1244F3A4E3D49C4FA60C812B14"
+		},
+		"projectid": "Casse_Brique.f0d94d47",
+		"oplogid": "Windows"
+	}
+}
