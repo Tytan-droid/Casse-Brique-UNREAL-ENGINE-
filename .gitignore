@@ -1,0 +1,18 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.pdb
+*.log
+*.pak
+*.mp4
+*.zip

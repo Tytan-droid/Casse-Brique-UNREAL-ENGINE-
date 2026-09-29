@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.Casse_Brique.gen.cpp.obj": [
-			"BP_BALL_CPP.gen.cpp.obj",
-			"Casse_Brique.init.gen.cpp.obj"
-		]
-	}
-}
